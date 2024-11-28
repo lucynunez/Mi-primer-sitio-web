@@ -1,0 +1,27 @@
+/* color de pagina */
+body{ 
+    background-color: #ded1b6;
+    font-family: "Poppins", sans-serif;
+    font-size: 19px;
+}
+.wwh{ 
+    width: 190px;
+    border-radius: 150px;
+    border: solid;
+}
+.jinguapo{
+    width: 200px;
+    border-radius: 100px;
+    border: solid;
+}
+h2{
+    text-align: center;
+}
+.caracteristicas{
+    background-image: url(https://wallpapercave.com/wp/wp7558736.jpg);
+    font-size: 20px;
+    color: rebeccapurple;
+}
+.imagenes{
+    text-align: center;
+}
